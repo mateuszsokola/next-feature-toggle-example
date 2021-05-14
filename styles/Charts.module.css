@@ -1,0 +1,12 @@
+.chart {
+  margin: 20px 0;
+}
+
+.chart:first-child {
+  margin-top: 0;
+}
+
+.chartContent {
+  width: 100%;
+  height: 400px;
+}
