@@ -29,7 +29,7 @@ export default function Home() {
   return (
     <Layout className="layout">
       <Head>
-        <title>🚦 Feature Toggle in React.JS</title>
+        <title>🚦 Feature Toggle in Next.js</title>
       </Head>
       <Header>
         <div className="logo" />
